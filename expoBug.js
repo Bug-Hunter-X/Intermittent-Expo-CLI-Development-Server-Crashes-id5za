@@ -1,0 +1,1 @@
+While using Expo CLI, I encountered an issue where the development server would randomly crash without any clear error messages in the terminal.  This would often occur after making seemingly minor changes to the codebase, particularly when working with complex components or state management.
